@@ -38,6 +38,9 @@
 			
 			font-size: 18px;
 		}
+		ol.notes {
+			list-style-type: upper-roman;
+		}
 		
 		ul {
 			 
