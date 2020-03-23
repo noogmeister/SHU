@@ -41,6 +41,10 @@
 		ol.notes {
 			list-style-type: upper-roman;
 		}
+		ol.b {
+			list-style-type: lower-alpha;
+		}
+	
 		
 		ul {
 			 
@@ -50,6 +54,7 @@
 			width: 200px;
 			background-color: #f1f1f1;
 		}
+		
 		ul.movielist {
 			width: auto;
 			font-size: 20px;
